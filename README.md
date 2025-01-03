@@ -24,7 +24,10 @@
 
 ---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p align="center">
+  <img src="./assets/frogif.gif" alt="Frog Coding"  align="right" style="width: 200px" />
+</p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
